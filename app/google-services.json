@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1096423140828",
+    "firebase_url": "https://color-app-1da1c-default-rtdb.firebaseio.com",
+    "project_id": "color-app-1da1c",
+    "storage_bucket": "color-app-1da1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096423140828:android:f31d00b6bf42e5627c7319",
+        "android_client_info": {
+          "package_name": "com.example.janitriassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXAuKobZbw7LvRDY_5TgYRlpSH8zV9LX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
