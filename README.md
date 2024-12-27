@@ -9,4 +9,4 @@ A simple application to manage and sync color information between a local Room d
 - Seamless synchronization of colors to Firebase.
 
 ## Screenshot
-<img src="JanitriAssignmentScreenshot.jpg" width="600"/>
+<img src="JanitriAssignmentScreenshot.jpg" width="300"/>
